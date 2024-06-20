@@ -4,7 +4,7 @@ This repository contains the final report for the ASRS project.
 
 ## Download
 
-You can download the final report from the link below:
+You can take a look at the final report from the link below:
 
 [ASRS FINAL REPORT 2.0.pdf](ASRS%20FINAL%20REPORT%202.0.pdf)
 
